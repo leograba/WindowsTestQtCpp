@@ -26,5 +26,6 @@
   "docker_registry": "",
   "docker_password": "secret",
   "tcb.clientId": "api-v2_d65aacd7_93ac1a67-f63e-4601-8771-237e8c30c012",
-  "tcb.clientSecret": "secret"
+  "tcb.clientSecret": "secret",
+  "tcb.fleetName": "WindowsTestFleet"
 }
