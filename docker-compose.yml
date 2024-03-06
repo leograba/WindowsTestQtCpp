@@ -63,7 +63,7 @@ services:
     image: torizon/weston${GPU}:3
     environment:
       - ACCEPT_FSL_EULA=1
-      - ENABLE_VNC=1
+      - ENABLE_RDP=1
     # Required to get udev events from host udevd via netlink
     network_mode: host
     volumes:
