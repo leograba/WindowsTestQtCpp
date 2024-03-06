@@ -1,6 +1,6 @@
 [
     {
-        "source": "testQt6QMLCpp.pro",
+        "source": "__change__.pro",
         "target": "$projectName.pro"
     },
     {
